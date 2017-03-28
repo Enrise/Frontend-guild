@@ -1,0 +1,14 @@
+{
+  "name": "Frontend-Presentations",
+  "description": "Frontend presentations",
+  "author": "Team Matchminds @ Enrise",
+  "version": "1.0.0",
+  "main": "README.md",
+  "private": true,
+  "scripts": {
+    "view": "reveal-md"
+  },
+  "dependencies": {
+    "reveal-md": "0.0.25"
+  }
+}
