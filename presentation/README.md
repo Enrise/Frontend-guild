@@ -9,9 +9,9 @@ npm install
 
 ## View presentation
 ```
-npm view [filename.md]
+npm run view [filename.md]
 
-npm view frontend-for-sales.md # for example
+npm run view frontend-for-sales.md # for example
 ```
 
 ## Templating
