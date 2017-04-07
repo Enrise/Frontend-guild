@@ -10,26 +10,44 @@
 ----
 
 # The state of frontend in 2017
-- In the early days: HTML / CSS / Javascript only
-- Nowadays the gap between frontend and backend is closing
-  - Javascript frameworks (Bootstrap.js, Angular, React)
-  - HTML5 brought a whole lot of API's, making more stuff possible on frontend
-  - CSS improves (both with preprocessors as browsersupport)
-  - Tooling around frontend improves (task runners, code bundlers)
-  - Package managers (Bower, NPM, Yarn)
-- There's a whole world out there!
+- Gap between frontend and backend is closing
 
 ----
 
-# Frontend focus shifts from...
-- Slicing a Photoshop design
-- Putting it in a bunch of `<div>` elements
-- Styling stuff in CSS
-- If you're the adventurous type: do some jQuery to animate elements!
+# HTML5
+
+- More semantic syntax
+- A lot of new API's that should be part of every browsers toolbox
 
 ----
 
-# Frontend focus shifts to...
+# Javascript frameworks
+
+- BootstrapJS
+- Angular
+- React
+- Vue.js
+- Many, many, many more...
+
+----
+
+# CSS
+
+- Not a specific version, but rather new features (flexbox, css grid)
+- Preprocessors (SASS, LESS)
+- Browsers are becoming more and more predictable
+
+----
+
+# Tooling around frontend
+
+- Task runners (grunt, gulp, npm scripts)
+- Code Bundlers (webpack, rollupJS)
+- Package managers (bower, npm, yarn)
+
+----
+
+# Some more trends...
 
 - Webapps are becoming the defacto standard for providing a UI for your application:
   - They replace native apps (Progressive Web Apps)
