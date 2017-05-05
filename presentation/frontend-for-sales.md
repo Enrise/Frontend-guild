@@ -10,7 +10,7 @@
 ----
 
 # The state of frontend in 2017
-- Gap between frontend and backend is closing
+- Gap between frontend and backend is closing. This means the "new frontend" fits really well in the Enrise methodology of developing.
 
 ----
 
@@ -23,7 +23,7 @@
 
 # Javascript frameworks
 
-- BootstrapJS
+- Backbone
 - Angular
 - React
 - Vue.js
@@ -36,6 +36,8 @@
 - Not a specific version, but rather new features (flexbox, css grid)
 - Preprocessors (SASS, LESS)
 - Browsers are becoming more and more predictable
+- PostCSS
+- CSS3 variables
 
 ----
 
