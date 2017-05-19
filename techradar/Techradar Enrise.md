@@ -49,9 +49,7 @@ Just throw all the tools and frameworks you use in this section. We will group t
 
 ### Daan
 #### Using
-* PHPStorm
-  * It supports JavaScript really well it supports things like refactoring and clicking to classess
+* VSCode
 
 #### Trying 
-* VSCode
-	* It seems very promising, a lot of people are using it. Probably for a reason ;)
+-
